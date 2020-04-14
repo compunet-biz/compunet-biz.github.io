@@ -1,3 +1,4 @@
+To ensure the templates are up to date or suitable for your environment, please consult with a CompuNet Engineer before deploying.
 
 # 1 Palo Alto VM, Basic
 Deploys 1 PA VM, building a new vNet with Route-Tables/etc.
