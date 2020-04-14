@@ -47,7 +47,7 @@ Deploys a new virtual network, linux VM, and vNet Gateway, building as many as n
 
 1. Deploy
     + New-AzResourceGroupDeployment -ResourceGroupName PA-ResourceGroup-Name -TemplateFile .\FILENAME.json -TemplateParameterFile .\FILENAME.parameters.json
-
+* * *
 
 #### To Deploy via CloudShell:
 1. Upload FILENAME.json and FILENAME.parameters.json
