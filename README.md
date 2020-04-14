@@ -5,7 +5,7 @@ Deploys 1 PA VM into an existing Resource Group.
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fcnetpalotraining.blob.core.windows.net%2Farm-public%2Fcnet-pa1.json)
 
 # 2 Palo Alto VM's, LB Sandwich
-Deploys 2 PA VM into an existing Resource Group in a 'Load Balancer Sandwich'.
+Deploys 2 PA VM's into an existing Resource Group in a 'Load Balancer Sandwich'.
 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fcnetpalotraining.blob.core.windows.net%2Farm-public%2Fgpa-deploy.json)
 
