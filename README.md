@@ -21,7 +21,7 @@ Deploys a new virtual network, linux VM, and Gateway, building as many as needed
 
 ---
 
-To Deploy via PowerShell:
+#### To Deploy via PowerShell:
 
 1. Login
     + Connect-AzAccount
@@ -39,7 +39,7 @@ To Deploy via PowerShell:
     + New-AzResourceGroupDeployment -ResourceGroupName PA-ResourceGroup-Name -TemplateFile .\FILENAME.json -TemplateParameterFile .\FILENAME.parameters.json
 
 
-To Deploy via CloudShell:
+#### To Deploy via CloudShell:
 1. Upload FILENAME.json and FILENAME.parameters.json
 
 1. Create Resource Group
