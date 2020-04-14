@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: CompuNet Azure Templates
-description: Azure ARM Templates used for various deployments. To ensure proper usage, please consult with a CompuNet Engineer.
+description: Azure ARM Templates used for various deployments. To ensure a proper deployment, please consult with a CompuNet Engineer.
 logo: images/cnet.png
