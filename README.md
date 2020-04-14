@@ -15,7 +15,7 @@ Deploys a new virtual network and linux VM, building as many as needed (vNetCoun
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fcnetpalotraining.blob.core.windows.net%2Farm-public%2Fvmvnet.json)
 
 # Basic vNet, VM, & Gateway
-Deploys a new virtual network, linux VM, and Gateway, building as many as needed (vNetCount)
+Deploys a new virtual network, linux VM, and vNet Gateway, building as many as needed (vNetCount)
 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fcnetpalotraining.blob.core.windows.net%2Farm-public%2Fvmvnet-gw.json)
 
