@@ -27,13 +27,13 @@ Deploys 2 PA VM's in a 'Load Balancer Sandwich'.
 * * *
 
 # Basic vNet & VM
-Deploys a new virtual network and linux VM, building as many as needed (vNetCount)
+Deploys a new virtual network and Linux VM, building as many as needed (vNetCount)
 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fcnetpalopublic.blob.core.windows.net%2Farm-public%2Fvmvnet.json)
 * * *
 
 # Basic vNet, VM, & Gateway
-Deploys a new virtual network, linux VM, and vNet Gateway, building as many as needed (vNetCount)
+Deploys a new virtual network, Linux VM, and vNet Gateway, building as many as needed (vNetCount)
 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fcnetpalopublic.blob.core.windows.net%2Farm-public%2Fvmvnet-gw.json)
 * * *
