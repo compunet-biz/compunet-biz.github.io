@@ -8,6 +8,12 @@ Deploys 1 PA VM, building a new vNet with Route-Tables/etc.
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fcnetpalotraining.blob.core.windows.net%2Farm-public%2Fcnet-pa1.json)
 * * *
 
+# 1 Palo Alto VM, Basic, with Bootstrap
+Deploys 1 PA VM, building a new vNet with Route-Tables/etc. Bootstrap enabled.
+
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fcnetpalopublic.blob.core.windows.net%2Farm-public%2Fcnet-pa1-bootstrap.json)
+* * *
+
 # 1 Palo Alto VM, Basic, Existing vNet
 Deploys 1 PA VM, into an existing vNet, this is not recommended.
 
