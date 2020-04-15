@@ -5,7 +5,7 @@ To ensure the templates are up to date or suitable for your environment, please 
 # 1 Palo Alto VM, Basic
 Deploys 1 PA VM, building a new vNet with Route-Tables/etc.
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fcnetpalotraining.blob.core.windows.net%2Farm-public%2Fcnet-pa1.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fcnetpalopublic.blob.core.windows.net%2Farm-public%2Fcnet-pa1.json)
 * * *
 
 # 1 Palo Alto VM, Basic, with Bootstrap
@@ -17,25 +17,25 @@ Deploys 1 PA VM, building a new vNet with Route-Tables/etc. Bootstrap enabled.
 # 1 Palo Alto VM, Basic, Existing vNet
 Deploys 1 PA VM, into an existing vNet, this is not recommended.
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fcnetpalotraining.blob.core.windows.net%2Farm-public%2Fcnet-pa1-existing-vnet.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fcnetpalopublic.blob.core.windows.net%2Farm-public%2Fcnet-pa1-existing-vnet.json)
 * * *
 
 # 2 Palo Alto VM's, LB Sandwich
 Deploys 2 PA VM's in a 'Load Balancer Sandwich'.
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fcnetpalotraining.blob.core.windows.net%2Farm-public%2Fgpa-deploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fcnetpalopublic.blob.core.windows.net%2Farm-public%2Fgpa-deploy.json)
 * * *
 
 # Basic vNet & VM
 Deploys a new virtual network and linux VM, building as many as needed (vNetCount)
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fcnetpalotraining.blob.core.windows.net%2Farm-public%2Fvmvnet.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fcnetpalopublic.blob.core.windows.net%2Farm-public%2Fvmvnet.json)
 * * *
 
 # Basic vNet, VM, & Gateway
 Deploys a new virtual network, linux VM, and vNet Gateway, building as many as needed (vNetCount)
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fcnetpalotraining.blob.core.windows.net%2Farm-public%2Fvmvnet-gw.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fcnetpalopublic.blob.core.windows.net%2Farm-public%2Fvmvnet-gw.json)
 * * *
 
 * * *
