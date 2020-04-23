@@ -21,19 +21,19 @@ Deploys 1 PA VM, into an existing vNet, this is not recommended for production.
 * * *
 
 # 2 Palo Alto VM's, LB Sandwich - POC
-Deploys 2 PA VM's in a 'Load Balancer Sandwich'. Build's sample subnets and bootstraps a working PA configuration including allowing access to (manually build) web server in the Web subnet.
+Deploys 2 PA VM's in a 'Load Balancer Sandwich'. Build's sample subnets and bootstraps a working PA configuration allowing access to a (manually built) web server in the Web subnet. Update the PA address objects with the correct IP's for the manually deployed web server.
 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fcnetpalopublic.blob.core.windows.net%2Farm-public%2Fpoc-lbsand-deploy.json)
 * * *
 
 # Basic vNet & VM
-Deploys a new virtual network and Linux VM, building as many as needed (vNetCount)
+Deploys a new virtual network and Linux VM, building up to 10 (vNetCount). Can be updated to support higher count very easily, just ask.
 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fcnetpalopublic.blob.core.windows.net%2Farm-public%2Fvmvnet.json)
 * * *
 
 # Basic vNet, VM, & Gateway
-Deploys a new virtual network, Linux VM, and vNet Gateway, building as many as needed (vNetCount)
+Deploys a new virtual network, Linux VM, and vNet Gateway, building up to 10 (vNetCount). Can be updated to support higher count very easily, just ask.
 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fcnetpalopublic.blob.core.windows.net%2Farm-public%2Fvmvnet-gw.json)
 * * *
