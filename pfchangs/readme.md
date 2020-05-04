@@ -1,7 +1,7 @@
 To ensure the templates are up to date or suitable for your environment, please consult with a CompuNet Engineer before deploying.
 
 * * *
-[logo]: endor.png
+![image info]:(endor.png)
 
 # Project Endor - Phase 1
 
