@@ -1,0 +1,4 @@
+theme: jekyll-theme-minimal
+title: CompuNet Azure Templates
+description: Azure ARM Templates used for various deployment types.
+logo: endor.png
