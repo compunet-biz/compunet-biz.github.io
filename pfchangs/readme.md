@@ -1,7 +1,6 @@
-To ensure the templates are up to date or suitable for your environment, please consult with a CompuNet Engineer before deploying.
+May the 4th be with you!
 
 * * *
-![image info](endor.png)
 
 # Project Endor - Phase 1
 
@@ -14,30 +13,4 @@ Deploys 1 PA VM, building a new vNet with Route-Tables for Management/Public/Pri
 
 * * *
 
-#### To Deploy via PowerShell:
-
-1. Login
-    + Connect-AzAccount
-
-1. View subscriptions
-    + Get-AzSubscription
-
-1. Set subscription
-    + Set-AzContext -SubscriptionId <ID>
-
-1. Create Resource Group
-    + New-AzResourceGroup -Location WestUS2 -Name PA-ResourceGroup-Name
-
-1. Deploy
-    + New-AzResourceGroupDeployment -ResourceGroupName PA-ResourceGroup-Name -TemplateFile .\FILENAME.json -TemplateParameterFile .\FILENAME.parameters.json
-
-* * *
-
-#### To Deploy via CloudShell:
-1. Upload FILENAME.json and FILENAME.parameters.json
-
-1. Create Resource Group
-    + New-AzResourceGroup -Location WestUS2 -Name PA-ResourceGroup-Name
-1. cd ~
-1. Deploy
-    + New-AzResourceGroupDeployment -ResourceGroupName PA-ResourceGroup-Name -TemplateFile .\FILENAME.json -TemplateParameterFile .\FILENAME.parameters.json
+![May the 4th be with you!!](yoda.png)
