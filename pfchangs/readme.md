@@ -13,4 +13,4 @@ Deploys 1 PA VM, building a new vNet with Route-Tables for Management/Public/Pri
 
 * * *
 
-![May the 4th be with you!!](yoda.png)
+![May the 4th be with you!!](yoda.jpg)
