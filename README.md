@@ -38,6 +38,12 @@ Deploys a new virtual network, Linux VM, and vNet Gateway, building up to 10 (vN
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fcnetpalopublic.blob.core.windows.net%2Farm-public%2Fvmvnet-gw.json)
 * * *
 
+# Linux VM, Existing vNet
+Deploys a Linux VM in existing vNet...for testing.
+
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fcnetpalopublic.blob.core.windows.net%2Farm-public%2Flinuxvm.json)
+* * *
+
 * * *
 
 #### To Deploy via PowerShell:
