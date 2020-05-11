@@ -1,10 +1,8 @@
-## May the 4th be with you!
-
 ![Kung Pao](kungpao.jpg)
 
 * * *
 
-# Project Endor - Phase 1
+# Project Endor - PFC
 
 ## P.F. Chang's - UAT PA/Webapp ARM Deployment
 Deploys 1 PA VM, building a new vNet with Route-Tables for Management/Public/Private networks. Bootstrap enabled.
