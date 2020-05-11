@@ -1,6 +1,6 @@
 ## May the 4th be with you!
 
-![Endor](endor2.jpg)
+![Kung Pao](kungpao.jpg)
 
 * * *
 
@@ -15,4 +15,4 @@ Deploys 1 PA VM, building a new vNet with Route-Tables for Management/Public/Pri
 
 * * *
 
-![Yoda](yoda.jpg)
+![Sesame](sesame.jpg)
