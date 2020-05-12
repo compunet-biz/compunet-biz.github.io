@@ -1,4 +1,4 @@
-![Kung Pao](kungpao.jpg)
+![Kung Pao](bill.png)
 
 * * *
 
