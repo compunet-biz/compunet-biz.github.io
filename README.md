@@ -12,6 +12,7 @@ Deploys 2 PA VM's in a 'Load Balancer Sandwich'. Bootstraps a working PA configu
 This can be used with the above LB Sandwich deployment template. Use this first, create your bootstrap with your specific IP Address in mind and note the folder your new bootstrap exists in.
 [Launch Bootstrap Creator](https://cnet-pa-tools.azurewebsites.net/bs_maker)
 
+
 # 1 Palo Alto VM, Basic
 Deploys 1 PA VM, building a new vNet with Route-Tables for Management/Public/Private networks.
 
