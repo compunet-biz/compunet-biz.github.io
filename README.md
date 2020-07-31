@@ -5,13 +5,8 @@ To ensure the templates are up to date or suitable for your environment, please 
 # LB Sandwich - 2 Palo Alto VM's
 Deploys 2 PA VM's in a 'Load Balancer Sandwich'. Bootstraps a working PA configuration allowing external access through the LB and PA's to a (manually built) internal server. Update the PA address objects with the correct IP's for the manually deployed web server.
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fcnetpalopublic.blob.core.windows.net%2Farm-public%2Fgenlb.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://cnet-pa-tools.azurewebsites.net/bs_maker)
 * * *
-
-# PA Bootstrap Creator
-This can be used with the above LB Sandwich deployment template. Use this first, create your bootstrap with your specific IP Address in mind and note the folder your new bootstrap exists in.
-[Launch Bootstrap Creator](https://cnet-pa-tools.azurewebsites.net/bs_maker)
-
 
 # 1 Palo Alto VM, Basic
 Deploys 1 PA VM, building a new vNet with Route-Tables for Management/Public/Private networks.
