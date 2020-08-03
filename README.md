@@ -11,7 +11,7 @@ Deploys 2 PA VM's in a 'Load Balancer Sandwich'. Builds everything needed to POC
 # LB Sandwich - 2 Palo Alto VM's - No Sub
 Deploys 2 PA VM's in a 'Load Balancer Sandwich'. Same as above, without the Subscriber VNET/VM's.
 
-[![Deploy to Azure](hhttps://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fcnetpalopublic.blob.core.windows.net%2Farm-public%2Fgenlb.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fcnetpalopublic.blob.core.windows.net%2Farm-public%2Fgenlb.json)
 * * *
 
 # 1 Palo Alto VM, Basic
