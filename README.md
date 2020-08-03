@@ -5,7 +5,7 @@ To ensure the templates are up to date or suitable for your environment, please 
 # LB Sandwich - 2 Palo Alto VM's
 Deploys 2 PA VM's in a 'Load Balancer Sandwich'. Builds everything needed to POC a working Azure-PA environment. Bootstraps a PA configuration allowing external access through the LB and PA's to a (automatically built) Web-VM running default apache on port 80. Update the PA address object with the Public IP' Azure hands out for the External LB. A 2nd DB-VM is built for testing east/west as well.
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://cnet-pa-tools.azurewebsites.net/bs_maker)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://cnet-pa-tools.azurewebsites.net/bs_maker){:target="_blank"}
 * * *
 
 # LB Sandwich - 2 Palo Alto VM's - No Sub
